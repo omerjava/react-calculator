@@ -1,0 +1,9 @@
+.btn input {
+    min-width: 80px;
+    min-height: 50px;
+    border-radius: 5px;
+}
+
+.btn input:hover {
+    border: 3px solid black;
+}
